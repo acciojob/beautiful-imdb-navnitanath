@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+h1{
+margin-left:500px;
+
+}
+.moviePic{
+	height:500px;
+	width:300px;
+	opacity:100%;
+}
+.movieDetail{
+	position:absolute;
+	top:150px;
+	width:1000px;
+	margin-left:350px;
+	text-align:left;
+	font-size:20px
+}
